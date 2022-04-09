@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/numbersapi/static/css/main.a6003246.css",
+    "main.js": "/numbersapi/static/js/main.8594dbb2.js",
+    "static/js/787.db7d1593.chunk.js": "/numbersapi/static/js/787.db7d1593.chunk.js",
+    "index.html": "/numbersapi/index.html",
+    "main.a6003246.css.map": "/numbersapi/static/css/main.a6003246.css.map",
+    "main.8594dbb2.js.map": "/numbersapi/static/js/main.8594dbb2.js.map",
+    "787.db7d1593.chunk.js.map": "/numbersapi/static/js/787.db7d1593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6003246.css",
+    "static/js/main.8594dbb2.js"
+  ]
+}
