@@ -1,0 +1,19 @@
+.sidebar {
+    padding: 0px 10px;
+    border: 1px solid #333;
+    border-radius: 30px;
+    margin-inline: auto;
+    width: 75%;
+    background-color: aliceblue;
+    list-style: none;
+    margin-top: 5rem;
+    max-width: 70%;
+}
+.item {
+    text-align: center;
+    padding: 15px 15px;
+    margin: 5px 5px;
+    cursor: pointer;
+    font-weight: 500;
+
+}
