@@ -43,8 +43,8 @@ class App extends Component {
           </div>
         </div>
         <div className='content'>
-          <SideBar onClick={this.handleCategoryChange}/>
           <Fact category={category} number={number}/>
+          <SideBar onClick={this.handleCategoryChange}/>
         </div>
       </div>
     );

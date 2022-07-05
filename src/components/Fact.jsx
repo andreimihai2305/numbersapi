@@ -25,11 +25,10 @@ class Fact extends Component {
     }
    
     render(){
-        // const fact = this.state.fact;
         const {category, number} = this.props;
         return (
             <div className="container">
-                <h2>{category.charAt(0).toUpperCase() + category.slice(1)} Fact :</h2>
+                <h2>{category.charAt(0).toUpperCase() + category.slice(1)} Fact:</h2>
                 <div className="body">
                     <h3 className="number">{number}</h3>
                     <p className="fact">{this.state.fact}</p>
